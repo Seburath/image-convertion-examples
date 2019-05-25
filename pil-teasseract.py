@@ -1,5 +1,6 @@
 from PIL import Image
 import pytesseract
 
-
-print(pytesseract.image_to_string(Image.open('ex.png'), lang='eng'))
+im = import pytesseract
+text = pytesseract.image_to_string(, lang='eng')
+print(text)

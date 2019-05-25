@@ -5,3 +5,5 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/45968eff/
+im	pil-teasseract.py	/^im = import pytesseract$/;"	v
+text	pil-teasseract.py	/^text = pytesseract.image_to_string(, lang='eng')$/;"	v
